@@ -5,3 +5,5 @@ This is an (offline) judge for grading programs written in C++, Python, Java, et
 The judge was used for preparing and conducting various Ukrainian competitions in informatics.
 
 You can read somewhat more detailed [documentation in Ukrainian](README-ukr.md).
+
+Binaries are available at the [releases page](https://github.com/danmysak/STS/releases/).
