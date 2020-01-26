@@ -6,4 +6,4 @@ The judge was used for preparing and conducting various Ukrainian competitions i
 
 You can read somewhat more detailed [documentation in Ukrainian](README-ukr.md).
 
-Binaries are available at the [releases page](https://github.com/danmysak/STS/releases/).
+Binaries are available on the [Releases](https://github.com/danmysak/STS/releases/) page.
